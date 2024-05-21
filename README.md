@@ -15,7 +15,7 @@ const aboutMe = {
          js: ["Node", "Express"],
       },
    },
-   ocupacionActual: ["ultimo año totalmente dedicado a mis estudios"],
+   ocupacionActual: "ultimo año totalmente dedicado a mis estudios",
    challenge: "en busca de una oportunidad laboral",
 };
 ```
