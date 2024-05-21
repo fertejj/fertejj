@@ -1,4 +1,4 @@
-<p><em>Estudiante para Analista Programador en <a href="https://www.unju.edu.ar/">Universidad de San Salvador de Jujuy</a>.</br>
+<p><em>Estudiante para Analista Programador en <a href="https://www.unju.edu.ar/">Universidad Nacional de San Salvador de Jujuy</a>.</br>
 </em></p>
 
 
