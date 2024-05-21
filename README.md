@@ -3,20 +3,20 @@
 
 
 ```javascript
-const aboutMe = {
-   sexo: "hombre",
-   code: [Javascript, Typescript, HTML, CSS, Java, C++],
-   tecnologias: {
+  aboutMe = {
+    sexo: 'hombre',
+    code: [Javascript, Typescript, HTML, CSS, Java, C++],
+    tecnologias: {
       frontEnd: {
-         js: ["React", "Angular"],
-         css: ["Bootstrap", "Tailwind", "SCSS"]
+        js: ['React', 'Angular'],
+        css: ['Bootstrap', 'Tailwind', 'SCSS'],
       },
       backEnd: {
-         js: ["Node", "Express"],
+        js: ['Node', 'Express'],
       },
-   },
-   ocupacionActual: "ultimo año totalmente dedicado a mis estudios",
-   challenge: "en busca de una oportunidad laboral",
-};
+    },
+    ocupacionActual: 'ultimo año totalmente dedicado a mis estudios',
+    challenge: 'en busca de una oportunidad laboral',
+  };
 ```
 </br></br>
