@@ -1,5 +1,5 @@
-<p><em>Estudiante para Analista Programador en <a href="https://www.unju.edu.ar/">Universidad Nacional de San Salvador de Jujuy</a>.</br>
-</em></p>
+<p>Estudiante para Analista Programador en <a href="https://www.unju.edu.ar/">Universidad Nacional de San Salvador de Jujuy</a>.</br></p>
+<em><p>Especializandome en el Desarrollo Web en Js y Ts con React, Angular, Firebase y NodeJs</p></em>
 
 
 ```javascript
@@ -12,7 +12,7 @@
         css: ['Bootstrap', 'Tailwind', 'SCSS'],
       },
       backEnd: {
-        js: ['Node', 'Express'],
+        js: ['Node'],
       },
     },
     ocupacionActual: 'ultimo año totalmente dedicado a mis estudios',
