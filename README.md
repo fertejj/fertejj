@@ -15,8 +15,8 @@
         js: ['Node'],
       },
     },
-    ocupacionActual: 'ultimo año totalmente dedicado a mis estudios',
-    challenge: 'en busca de una oportunidad laboral',
+    ocupacionActual: 'serv. tecnico - freelancer',
+    challenge: 'en busca de una oportunidad laboral en desarrollo web',
   };
 ```
 </br></br>
