@@ -12,7 +12,8 @@
         css: ['Bootstrap', 'Tailwind', 'SCSS'],
       },
       backEnd: {
-        js: ['Node'],
+        js: ['Node', Express],
+        sql: ['MySql']
       },
     },
     ocupacionActual: 'serv. tecnico - freelancer',
