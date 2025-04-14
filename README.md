@@ -8,7 +8,7 @@
     code: [Javascript, Typescript],
     tecnologias: {
       frontEnd: {
-        js: ['React', 'Angular', Next Js],
+        js: ['React', 'Angular', 'Next Js'],
         css: ['Tailwind', 'SCSS'],
       },
       backEnd: {
