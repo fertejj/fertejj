@@ -5,19 +5,19 @@
 ```javascript
   aboutMe = {
     sexo: 'hombre',
-    code: [Javascript, Typescript, HTML, CSS, Java, C++],
+    code: [Javascript, Typescript],
     tecnologias: {
       frontEnd: {
-        js: ['React', 'Angular'],
-        css: ['Bootstrap', 'Tailwind', 'SCSS'],
+        js: ['React', 'Angular', Next Js],
+        css: ['Tailwind', 'SCSS'],
       },
       backEnd: {
         js: ['Node', Express],
-        sql: ['MySql']
+        db: ['MySql', 'MongoDB', 'Firestore']
       },
     },
-    ocupacionActual: 'serv. tecnico - freelancer',
-    challenge: 'en busca de una oportunidad laboral en desarrollo web',
+    ocupacionActual: 'desarrollando mis SaaS',
+    challenge: 'lograr 2 SaaS funcionales antes de fin de 2025',
   };
 ```
 </br></br>
