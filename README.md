@@ -1,49 +1,91 @@
+Hola, soy Fernando Tejerina 👋
+Desarrollador Fullstack | React | Next.js | Node.js | Google Cloud
+<p align="left">
+<a href="https://www.linkedin.com/in/fertejj/" target="_blank">
+  Linkedin
+</a>
+  <br>
+<a href="https://www.fertejj.com.ar/" target="_blank">
+  Portfolio
+</a>
+<br>
+<a href="mailto:fertejj.dev@gmail.com">
+Email
+</a>
+</p>
+
 <!-- SOBRE MÍ -->
+
 <h2>👨‍💻 Sobre mí</h2>
-<p><strong>Estudiante de Analista Programador</strong> en la 
-  <a href="https://www.unju.edu.ar/" target="_blank"><strong>Universidad Nacional de Jujuy</strong></a>.
+
+<p>
+Soy <strong>Desarrollador Fullstack</strong> con 3 años de experiencia, apasionado por transformar ideas en soluciones digitales robustas y escalables.
 </p>
 <p>
-  <em>Me especializo en el desarrollo web moderno utilizando tecnologías como 
-    <strong>JavaScript</strong>, <strong>TypeScript</strong>, <strong>React</strong>, 
-    <strong>Angular</strong>, <strong>Node.js</strong> y <strong>Google Cloud</strong>.
-  </em>
+Me especializo en el ecosistema JavaScript moderno, construyendo aplicaciones web de alto impacto. Mi enfoque va más allá del código: me involucro en el ciclo de vida completo del producto, desde la conceptualización hasta el despliegue y la optimización, siempre buscando alinear la tecnología con los objetivos de negocio.
 </p>
 
 <!-- STACK TECNOLÓGICO -->
-<h2>🧠 Stack Tecnológico</h2>
+
+<h2>🧠 Mi Stack Tecnológico</h2>
 <pre>
 <code>
 const aboutMe = {
-  sexo: 'hombre',
-  stack: ['JavaScript', 'TypeScript'],
-  tecnologias: {
-    frontEnd: {
-      js: ['React', 'Angular', 'Next.js'],
-      css: ['Tailwind CSS', 'SCSS'],
-    },
-    backEnd: {
-      js: ['Node.js', 'Express'],
-      db: ['MySQL', 'MongoDB', 'Firestore'],
-    },
-  },
-  ocupacionActual: 'Desarrollando mis propios SaaS',
-  challenge: 'Lanzar 2 SaaS funcionales antes de fin de 2025',
+nombre: 'Fernando Tejerina',
+rol: 'Desarrollador Fullstack',
+stackPrincipal: ['React', 'Next.js', 'TypeScript', 'Node.js'],
+tecnologias: {
+frontend: ['React', 'Next.js', 'TypeScript', 'TailwindCSS', 'SCSS'],
+backend: ['Node.js', 'Express.js', 'APIs RESTful'],
+basesDeDatos: ['PostgreSQL', 'Firebase (Firestore)'],
+cloud_devops: ['Google Cloud Platform (GCP)', 'Firebase', 'Vercel', 'Git'],
+},
+intereses: ['Desarrollo de productos SaaS', 'Arquitectura de software', 'Soluciones Cloud'],
 };
 </code>
 </pre>
 
-<!-- PROYECTO ACTUAL -->
-<h2>🚀 Proyecto actual: <strong>MiConsulta App</strong></h2>
-<strong>Link:</strong> https://www.miconsulta.app/
-<p><strong>MiConsulta</strong> es un sistema de gestión integral para profesionales de la salud que permite:</p>
+<!-- PROYECTOS DESTACADOS -->
+
+<h2>✨ Proyectos Destacados</h2>
+
+🚀 MiConsulta.app - SaaS de Gestión Médica
+Link: <a href="https://www.miconsulta.app/" target="_blank"><strong>miconsulta.app</strong></a>
+
+<p>Plataforma SaaS integral que diseñé y desarrollé desde cero para optimizar la gestión de consultorios de profesionales de la salud. La solución centraliza la agenda, digitaliza historias clínicas y automatiza la comunicación con pacientes, reduciendo significativamente la carga administrativa.</p>
 <ul>
-  <li>📅 Administrar turnos de forma eficiente</li>
-  <li>🧑‍⚕️ Gestionar pacientes e historias clínicas</li>
-  <li>📲 Automatizar recordatorios por WhatsApp</li>
-  <li>🧾 Registrar cobros según obras sociales y tipos de consulta</li>
+<li>📅 Administración de turnos</li>
+<li>🧑‍⚕️ Gestión de pacientes e historias clínicas</li>
+<li>📲 Automatización de recordatorios por WhatsApp</li>
+<li>🧾 Registro de cobros y gestión financiera</li>
 </ul>
-<p><strong>🔧 Tecnologías utilizadas:</strong><br/>
-  React + TypeScript + Tailwind CSS + Firebase + Framer Motion + React Hook Form + date-fns
+<p><strong>🔧 Stack:</strong> React, TypeScript, Tailwind CSS, Firebase (Auth, Firestore, Functions), Framer Motion, React Hook Form, date-fns</p>
+
+📊 Jujuy Hockey - Plataforma de Gestión Administrativa
+<p>Solución a medida para la administración completa de un club deportivo. Se creó un portal para directivos que simplifica la gestión de socios y finanzas, y un área de autogestión para que los socios consulten sus pagos y novedades, mejorando la transparencia y la eficiencia.</p>
+<p><strong>🔧 Stack:</strong> React, Node.js, Express, PostgreSQL, API Mercado Pago</p>
+
+🐎 Equina Profesional - Web Corporativa con CMS
+<p>Sitio web corporativo con un sistema de gestión de contenidos (CMS) a medida. La solución le otorga al cliente total autonomía para actualizar servicios, noticias y galería de imágenes, manteniendo su presencia online siempre relevante sin depender de un desarrollador.</p>
+<p><strong>🔧 Stack:</strong> React, Google Cloud Platform, CMS a medida</p>
+
+<!-- CONTACTO -->
+
+<h2>📫 Contacto</h2>
+<p>
+¡Estoy siempre abierto a conectar y colaborar en proyectos interesantes! No dudes en contactarme.
 </p>
-<p>👨‍⚕️ Enfocado en profesionales de la salud independientes que trabajan sin secretaria ni turnero en clínicas pequeñas.</p>
+
+<p align="left">
+<a href="https://www.linkedin.com/in/fertejj/" target="_blank">
+  Linkedin
+</a>
+  <br>
+<a href="https://www.fertejj.com.ar/" target="_blank">
+  Portfolio
+</a>
+<br>
+<a href="mailto:fertejj.dev@gmail.com">
+Email
+</a>
+</p>
