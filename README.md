@@ -1,5 +1,6 @@
 Hola, soy Fernando Tejerina 👋
-Desarrollador Fullstack | React | Next.js | Node.js | Google Cloud
+Desarrollador Fullstack | React | Next.js | Node.js | Google Cloud | Supabase
+<p align="left">
 <p align="left">
 <a href="https://www.linkedin.com/in/fertejj/" target="_blank">
   Linkedin
