@@ -37,7 +37,7 @@ rol: 'Desarrollador Fullstack',
 stackPrincipal: ['React', 'Next.js', 'TypeScript', 'Node.js'],
 tecnologias: {
 frontend: ['React', 'Next.js', 'TypeScript', 'TailwindCSS', 'SCSS'],
-backend: ['Node.js', 'Express.js', 'APIs RESTful'],
+backend: ['Node.js', 'Supabase', 'Express.js', 'APIs RESTful'],
 basesDeDatos: ['PostgreSQL', 'Firebase (Firestore)'],
 cloud_devops: ['Google Cloud Platform (GCP)', 'Firebase', 'Vercel', 'Git'],
 },
